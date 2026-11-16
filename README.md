@@ -23,23 +23,26 @@ Technical Implementation
 Power BI, DAX measures, Power Query, data modeling, interactive navigation, dynamic visualizations, and custom UI/UX design.
 
 
+
+# 🏡 European Real Estate Market Analysis
+
+An interactive Power BI dashboard exploring European real estate markets, property inventory, pricing trends, market performance, and investment opportunities.
+
+
 ## 📊 Dashboard Preview
 
-### European Real Estate Market Analysis
+### Dashboard Screenshot 1
+![Dashboard Screenshot 1](screenshots/Screenshot%202026-11-15%20223606.png)
 
-An interactive Power BI dashboard exploring European property markets, inventory distribution, pricing trends, and investment opportunities.
+### Dashboard Screenshot 2
+![Dashboard Screenshot 2](screenshots/Screenshot%202026-11-15%20223649.png)
 
-### Dashboard Overview
+### Dashboard Screenshot 3
+![Dashboard Screenshot 3](screenshots/Screenshot%202026-11-15%20223725.png)
 
-![Dashboard Overview](Screenshots/Screenshot 2026-11-15 223606.png)
+### Dashboard Screenshot 4
+![Dashboard Screenshot 4](screenshots/Screenshot%202026-11-15%20223822.png)
 
-### Inventory Analysis
-
-![Inventory Analysis](Screenshots/Screenshot 2026-11-15 223606.png)
-
-### Financial Analysis
-
-![Financial Analysis](Screenshots/Screenshot 2026-11-15 223725.png)
 
 ### Investment Insights
 
