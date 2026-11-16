@@ -1,2 +1,25 @@
-# European-Real-Estate-Market-Analysis
-Interactive Power BI analysis of European real estate markets, exploring property inventory, pricing trends, market performance, and investment opportunities.
+European Real Estate Market Analysis
+Power BI
+DAX
+Power Query
+Data Visualization
+
+Project Overview
+
+An interactive business intelligence solution designed to analyze European residential and commercial real estate markets, providing insights into property inventory, pricing, listing performance, and potential investment opportunities.
+
+Dataset Overview
+- Approximately 5,000 property listings
+- 2,955 for-sale listings and 2,045 rental listings
+- Residential and commercial properties
+- Property characteristics, geographic attributes, prices, and days on market
+Key Analytical Areas
+- Inventory Analysis: Property distribution by location, type, size, amenities, and market tier.
+- Market Performance: Listing freshness, days on market, and inventory aging.
+- Financial Analysis: Sale prices, price per square meter, rental metrics, and market comparisons.
+- Investment Insights: Comparative market attractiveness using a weighted opportunity scoring model.
+Technical Implementation
+
+Power BI, DAX measures, Power Query, data modeling, interactive navigation, dynamic visualizations, and custom UI/UX design.
+
+Dashboard Preview
